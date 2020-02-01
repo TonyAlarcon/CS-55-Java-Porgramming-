@@ -1,4 +1,5 @@
-# CS-55-Java-Porgramming
+# CS 55: Java Programming
+SMC - Winter 2020
 
 ## [Loan Calculator GUI](https://github.com/TonyAlarcon/CS-55-Java-Porgramming-/blob/master/Loan%20Calculator%20GUI/GUI%20Loan%20Cal.java)
 
