@@ -34,10 +34,10 @@ Skills:
 
 
 ## [Message Encryptor](https://github.com/TonyAlarcon/CS-55-Java-Porgramming-/blob/master/SecretMessage.java)
-
+```
 Skills:
 
 1. Control Flow Loops
 2. Object Oriented Programming
-
+```
   
