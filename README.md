@@ -5,9 +5,9 @@ SMC - Winter 2020
 ```
  Program ascertains monthly loan payment and displays an amortization schedule give the loan attributes which
  are entered by the user. Equation below is utilized:
-
- Monthly Payment = [ rate + rate/ ( [ 1 + rate ]^months - 1 )] * principal
 ```
+<a href="https://www.codecogs.com/eqnedit.php?latex=\textup{Monthly&space;Payment}&space;=&space;[&space;\textup{Rate}&space;&plus;&space;\textup{Rate}/&space;(&space;[&space;1&space;&plus;&space;\textup{Rate&space;}]^{months}&space;-&space;1&space;)]&space;*&space;\textup{Principal}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\textup{Monthly&space;Payment}&space;=&space;[&space;\textup{Rate}&space;&plus;&space;\textup{Rate}/&space;(&space;[&space;1&space;&plus;&space;\textup{Rate&space;}]^{months}&space;-&space;1&space;)]&space;*&space;\textup{Principal}" title="\textup{Monthly Payment} = [ \textup{Rate} + \textup{Rate}/ ( [ 1 + \textup{Rate }]^{months} - 1 )] * \textup{Principal}" /></a>
+
 >Skills:
 >
 >1. JavaFx
