@@ -16,6 +16,23 @@ SMC - Winter 2020
 Inline-style: 
 ![alt text](https://github.com/TonyAlarcon/CS-55-Java-Porgramming-/blob/master/Loan%20Calculator%20GUI/GUI%20Image.png "Logo Title Text 1")
 
+## [Coffee Menu](https://github.com/TonyAlarcon/CS-55-Java-Porgramming-/tree/master/HowToMakeCoffee)
+```
+Program that manages coffees. 
+This algorithm repeatedly shows the user a menu to create one of the three
+mocha drinks or to print all the drinks created so far. If the user selects to 
+create a new mocha drink, the program prompts the user to enter the ingredients 
+of the selected drink. If the user selects to print the current coffees, print the 
+drink type and ingredients of each drink to the console. Creating objects for testing all 
+classes and all functions in the main function.
+```
+>Skills:
+>
+>1. Exception Handling
+>2. Polymorphism via Inheritance
+>3. Polymorphism via Interface
+
+
 
 ## [Shapes](https://github.com/TonyAlarcon/CS-55-Java-Porgramming-/blob/master/Shapes.java)
 ```
